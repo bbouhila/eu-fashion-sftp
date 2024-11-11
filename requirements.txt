@@ -1,0 +1,5 @@
+paramiko
+google-cloud-storage
+google-cloud-secret-manager
+flask
+gunicorn
